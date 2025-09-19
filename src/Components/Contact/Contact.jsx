@@ -69,9 +69,9 @@ const Contact = ({ theme }) => {
     emailjs
       .sendForm(
         "service_g2fg9ja",
-        "template_o8nvgf4",
+        "template_peaowr7",
         form.current,
-        "CtmRn_PKCrIyRhg_o"
+        "f-WmiGjpsypJwbcAh"
       )
       .then(
         () => {
