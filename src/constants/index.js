@@ -7,7 +7,8 @@ import project6 from "../assets/projects/pixalive1.png";
 import project7 from "../assets/projects/pixalive2.png";
 import project8 from "../assets/projects/pixalive3.png";
 import project9 from "../assets/projects/portfolio.png";
-import project10 from '../assets/projects/Dejavu.png'
+import project10 from '../assets/projects/Dejavu.png';
+import project11 from '../assets/projects/TripMakers.png';
 
 export const HERO1_CONTENT = `I am a Web Developer, UI Developer and MERN Stack Developer. I have rich experience in Frontend and Backend Development.`;
 
@@ -131,6 +132,13 @@ export const PROJECTS = [
     
     technologies: ["HTML", "CSS", "React", "TailwindCss"],
     link: "https://chipper-panda-c0bfe6.netlify.app/"
+  },
+  {
+    title: "JN Trip Makers",
+    image: project11,
+    
+    technologies: ["HTML", "CSS", "React", "TailwindCss"],
+    link: "https://jn-tripmakers.netlify.app/"
   },
   
 ];
