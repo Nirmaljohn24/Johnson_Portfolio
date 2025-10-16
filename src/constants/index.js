@@ -41,14 +41,14 @@ export const EXPERIENCES = [
   role: "Maintenance Engineer",
   company: "RANE Brake Lining Limited",
   description: `Performed preventive and breakdown maintenance of production machinery to ensure minimal downtime. Monitored equipment performance, diagnosed faults, and implemented corrective actions. Coordinated with production and quality teams to improve machine efficiency and reliability. Assisted in planning and execution of maintenance schedules and spare parts management.`,
-  technologies: [ "Pneumatics", "Hydraulics", "Preventive Maintenance", "Root Cause Analysis", "5S", "Kaizen", "MS Office"]
+  technologies: [ "Pneumatics", "Hydraulics", "Preventive Maintenance", "Root Cause Analysis", "5S", "Kaizen"]
 },
 {
   year: "Aug 2020 - Nov 2020",
   role: "Mechanical Design Intern",
   company: "MSME - Development Institute",
   description: `Assisted in designing and modeling mechanical components and assemblies using CAD software. Created 2D drawings and 3D models for various industrial projects. Supported senior engineers in design validation, tolerance analysis, and material selection. Gained hands-on experience in product design, prototyping, and manufacturing documentation.`,
-  technologies: ["SolidWorks", "NX-Unigraphics", "GD&T", "2D Drafting", "3D Modeling", "Design Analysis", "Product Design"]
+  technologies: ["SolidWorks", "NX-Unigraphics"]
 }
 
 
